@@ -1,0 +1,35 @@
+{
+    "name": "暮らしの変化チェック",
+    "short_name": "暮らしチェック",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F7F8F4",
+    "theme_color": "#315C47",
+    "description": "日々の暮らしの変化を記録し、振り返るためのチェックアプリです。",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
